@@ -13,8 +13,6 @@ body {
     margin: 0 auto;
 }
 
-/* || typography */
-
 h1, h2, h3 {
     font-family: 'Sonsie One', cursive;
     color: #2a2a2a;
@@ -45,8 +43,6 @@ p, li {
     font-size: 1.6rem;
     line-height: 1.5;
 }
-
-/* || header layout */
 
 nav, article, aside, footer {
     background-color: white;
@@ -105,8 +101,6 @@ input[type="submit"] {
     border: 0;
     color: white;
 }
-
-/* || main layout */
 
 main {
     display: flex;
